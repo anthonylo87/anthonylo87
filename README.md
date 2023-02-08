@@ -2,7 +2,7 @@
 
 Hi there, Nice to meet you! 👋
 
-A little bit about me, I am a FP&A analyst turned full-stack software engineer. I made the transition into software engineering because I was drawn to the technical challenges presented at my prior roles, and wanted a more personal role in architecting these solutions.
+A little bit about me, I currently seeking full-stack software engineering roles. I have always been drawn to the technical challenges presented at my prior positions, and wanted to take a more personal role in architecting these solutions.
 
 Most recently I co-developed an open source product called DenoGres [[repo]](https://github.com/open-source-labs/DenoGres), an open-source ORM Mapping tool designed for PostgreSQL within the Deno runtime, aimed at simplifying development involving PostgreSQL databases.
 
